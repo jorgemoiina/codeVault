@@ -1,5 +1,6 @@
 this script focuses on the MEDV (median home value) using regression techniques, including Linear Regression, Lasso, Ridge, Bayesian Ridge, and stepwise selection.
 
+
 **below are the predictor variables**
 
 - **CRIM**: Per capita crime rate by town.
