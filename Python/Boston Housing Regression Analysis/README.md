@@ -1,6 +1,6 @@
-this script focuses on the MEDV (median home value) using learning regression technqiues such as Lasso, Ridge, Bayesian Ridge, or stepwise selection
+this script focuses on the MEDV (median home value) using regression techniques, including Linear Regression, Lasso, Ridge, Bayesian Ridge, and stepwise selection.
 
-below are the predictor variables
+**below are the predictor variables**
 
 - **CRIM**: Per capita crime rate by town.
 - **ZN**: Proportion of residential land zoned for lots over 25,000 sq. ft.
@@ -16,6 +16,6 @@ below are the predictor variables
 - **B**: Proportion of Black population.
 - **LSTAT**: % lower status of the population
 
-and the target variable
+**and the target variable**
 
 - **MEDV**: Median value of owner-occupied homes in $1000s.
